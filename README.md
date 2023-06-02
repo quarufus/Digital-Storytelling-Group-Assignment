@@ -29,7 +29,7 @@ The group assignment will contribute up to 7 points in the grade. Each member of
 
 ## Report
 You submit in the coordinator's Github repository:
-- Single [Transmedia report](Transmedia/README.md)
+- Single [Transmedia report]([Transmedia/README.md](https://github.com/quarufus/Digital-Storytelling-Group-Assignment/blob/main/Transmedia/dpsdXXXXX/TRANSMEDIA_REPORT.pdf))
 - Single [Design Document](our_design/README.md) for the design document. 
 - Link to your short movie video.
 - Single [presentation](our_presentation/README.md)
