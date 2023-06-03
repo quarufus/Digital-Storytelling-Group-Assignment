@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BEHIND THE SPIDERS</title>
+  <style>
+	@font-face {
+  	font-family: "compacta";
+  	src: url("./CompactaPlain.woff") format('woff');
+	}
+    body {
+      background-color: black;
+      color: white;
+      font-family: "compacta", sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-size: 100px;
+      font-family: "compacta", sans-serif;
+      color: #d40c0c;
+    }
+    h2 {
+      font-size: 50px;
+      font-family: "compacta", sans-serif;
+      color: #a6a6a6;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+    }
+    .video-container {
+      width: 50%;
+      margin-bottom: 20px;
+    }
+    .image-container {
+      width: 50%;
+      margin-bottom: 20px;
+    }
+    .video-container iframe {
+      width: 100%;
+      height: auto;
+    }
+    .image-container img {
+      width: 100%;
+      height: auto;
+    }
+    .buttons {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .buttons button {
+      margin: 0 10px;
+      padding: 10px 20px;
+      font-size: 18px;
+      background-color: #d40c0c;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    .buttons button:hover {
+      background-color: #a60000;
+    }
+  </style>
+</head>
+<body>
+  <h1>BEHIND THE SPIDERS</h1>
+  <h2>NIKOS ZAVERDINOS IS BREAKING THE LOOP</h2>
+  <div class="container">
+    <div class="buttons">
+      <button onclick="window.location.href='index.html'">Home</button>
+      <button onclick="window.location.href='questions.html'">Go to Questions</button>
+      <button onclick="window.location.href='more-info.html'">More Info</button>
+    </div>
+    <div class="video-container">
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/TG4BJjcgo98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+    <div class="image-container">
+      <img src="https://drive.google.com/uc?id=1MRS9ZFz0-fc_N7UtLfQCV1vEyUGY2I1j" alt="image">
+    </div>
+  </div>
+</body>
+</html>
+
