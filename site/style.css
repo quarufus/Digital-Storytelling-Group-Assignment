@@ -9,8 +9,8 @@
       text-align: center;
       margin: 0;
       padding: 0;
-      /*background-image: url("https://drive.google.com/uc?id=1MRS9ZFz0-fc_N7UtLfQCV1vEyUGY2I1j");
-      background-size: cover;*/
+      background-image: url("./bg.jpg");
+      background-size: cover;
     }
     h1 {
       font-size: 100px;
