@@ -33,6 +33,7 @@ You submit in the coordinator's Github repository:
 - Single [Design Document](https://github.com/quarufus/Digital-Storytelling-Group-Assignment/blob/main/our_design/dpsdXXXXX/DESIGN_DOCUMENT.pdf) for the design document. 
 - [Link to your short movie video](https://www.youtube.com/watch?v=TG4BJjcgo98).
 - Single [presentation](https://github.com/quarufus/Digital-Storytelling-Group-Assignment/blob/main/our_presentation/dspdXXXXX/PRESENTATION.pdf)
+- Our [website](https://quarufus.github.io/Digital-Storytelling-Group-Assignment/index.html) for our movie.
 - Any files you consider important (e.g. scenario, storyboards, games, music books, real time animations etc) 
 
 ## Questions
